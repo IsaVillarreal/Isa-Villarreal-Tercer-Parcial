@@ -1,0 +1,122 @@
+C:\Users\Alejandro\source\repos\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Cassandra.dll
+C:\Users\Alejandro\source\repos\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\LZ4.dll
+C:\Users\Alejandro\source\repos\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Alejandro\source\repos\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Alejandro\source\repos\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Alejandro\source\repos\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\Alejandro\source\repos\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Cassandra.xml
+C:\Users\Alejandro\source\repos\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Alejandro\source\repos\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Alejandro\source\repos\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Alejandro\source\repos\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\System.Threading.Tasks.Dataflow.xml
+C:\Users\Alejandro\source\repos\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojAssemblyReference.cache
+C:\Users\Alejandro\source\repos\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.cache
+C:\Users\Alejandro\source\repos\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\source\repos\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.CopyComplete
+C:\Users\Alejandro\source\repos\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Alejandro\source\repos\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Alejandro\source\repos\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Alejandro\source\repos\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Alejandro\source\repos\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Alejandro\source\repos\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Alejandro\source\repos\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Alejandro\source\repos\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form2.resources
+C:\Users\Alejandro\source\repos\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form3.resources
+C:\Users\Alejandro\source\repos\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form4.resources
+C:\Code\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Code\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Code\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Alejandro\Documents\Temp\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojAssemblyReference.cache
+C:\Users\Alejandro\Documents\Temp\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Alejandro\Documents\Temp\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form2.resources
+C:\Users\Alejandro\Documents\Temp\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form3.resources
+C:\Users\Alejandro\Documents\Temp\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form4.resources
+C:\Users\Alejandro\Documents\Temp\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Alejandro\Documents\Temp\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.cache
+C:\Users\Alejandro\Documents\Temp\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Documents\Temp\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Alejandro\Documents\Temp\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Alejandro\Documents\Temp\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Alejandro\Documents\Temp\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Alejandro\Documents\Temp\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Alejandro\Documents\Temp\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Cassandra.dll
+C:\Users\Alejandro\Documents\Temp\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\LZ4.dll
+C:\Users\Alejandro\Documents\Temp\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Alejandro\Documents\Temp\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Alejandro\Documents\Temp\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Alejandro\Documents\Temp\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\Alejandro\Documents\Temp\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Cassandra.xml
+C:\Users\Alejandro\Documents\Temp\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Alejandro\Documents\Temp\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Alejandro\Documents\Temp\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Alejandro\Documents\Temp\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\System.Threading.Tasks.Dataflow.xml
+C:\Users\Alejandro\Documents\Temp\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.CopyComplete
+C:\Users\Isa\Desktop\profe\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Isa\Desktop\profe\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Isa\Desktop\profe\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Isa\Desktop\profe\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Cassandra.dll
+C:\Users\Isa\Desktop\profe\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\LZ4.dll
+C:\Users\Isa\Desktop\profe\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Isa\Desktop\profe\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Isa\Desktop\profe\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Isa\Desktop\profe\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\Isa\Desktop\profe\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Cassandra.xml
+C:\Users\Isa\Desktop\profe\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Isa\Desktop\profe\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Isa\Desktop\profe\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Isa\Desktop\profe\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\System.Threading.Tasks.Dataflow.xml
+C:\Users\Isa\Desktop\profe\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Isa\Desktop\profe\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Isa\Desktop\profe\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form2.resources
+C:\Users\Isa\Desktop\profe\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form3.resources
+C:\Users\Isa\Desktop\profe\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form4.resources
+C:\Users\Isa\Desktop\profe\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Isa\Desktop\profe\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.cache
+C:\Users\Isa\Desktop\profe\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.CoreCompileInputs.cache
+C:\Users\Isa\Desktop\profe\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.CopyComplete
+C:\Users\Isa\Desktop\profe\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Isa\Desktop\profe\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Isa\Desktop\profe - copia\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Isa\Desktop\profe - copia\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Isa\Desktop\profe - copia\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Isa\Desktop\profe - copia\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Cassandra.dll
+C:\Users\Isa\Desktop\profe - copia\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\LZ4.dll
+C:\Users\Isa\Desktop\profe - copia\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Isa\Desktop\profe - copia\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Isa\Desktop\profe - copia\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Isa\Desktop\profe - copia\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\Isa\Desktop\profe - copia\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Cassandra.xml
+C:\Users\Isa\Desktop\profe - copia\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Isa\Desktop\profe - copia\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Isa\Desktop\profe - copia\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Isa\Desktop\profe - copia\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\System.Threading.Tasks.Dataflow.xml
+C:\Users\Isa\Desktop\profe - copia\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Isa\Desktop\profe - copia\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Isa\Desktop\profe - copia\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.cache
+C:\Users\Isa\Desktop\profe - copia\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.CoreCompileInputs.cache
+C:\Users\Isa\Desktop\profe - copia\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.CopyComplete
+C:\Users\Isa\Desktop\profe - copia\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Isa\Desktop\profe - copia\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Isa\Desktop\profe - copia\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Isa\Desktop\prueba examen\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Isa\Desktop\prueba examen\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Isa\Desktop\prueba examen\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Isa\Desktop\prueba examen\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Cassandra.dll
+C:\Users\Isa\Desktop\prueba examen\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\LZ4.dll
+C:\Users\Isa\Desktop\prueba examen\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Isa\Desktop\prueba examen\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Isa\Desktop\prueba examen\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Isa\Desktop\prueba examen\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\Isa\Desktop\prueba examen\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Cassandra.xml
+C:\Users\Isa\Desktop\prueba examen\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Isa\Desktop\prueba examen\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Isa\Desktop\prueba examen\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Isa\Desktop\prueba examen\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\System.Threading.Tasks.Dataflow.xml
+C:\Users\Isa\Desktop\prueba examen\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Isa\Desktop\prueba examen\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Isa\Desktop\prueba examen\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Isa\Desktop\prueba examen\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.cache
+C:\Users\Isa\Desktop\prueba examen\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.CoreCompileInputs.cache
+C:\Users\Isa\Desktop\prueba examen\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.CopyComplete
+C:\Users\Isa\Desktop\prueba examen\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Isa\Desktop\prueba examen\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
